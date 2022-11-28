@@ -44,3 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarushi16&show_icons=true&locale=en" alt="tarushi16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarushi16&" alt="tarushi16" /></p>
+
+<h3> Snake eating my contribution</h3>
+![snake gif](https://github.com/tarushi16/tarushi16/blob/output/github-contribution-grid-snake.gif)
+
