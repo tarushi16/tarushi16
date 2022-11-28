@@ -1,4 +1,4 @@
-
+![logo](https://github.com/tarushi16/tarushi16/blob/main/Readme%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tarushi Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack web developer and a blockchain enthusiast.</h3>
 
