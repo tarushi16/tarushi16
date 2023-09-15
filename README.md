@@ -15,6 +15,9 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:c39f9d22-5cf9-3949-ad45-ec1e2c152849](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:c39f9d22-5cf9-3949-ad45-ec1e2c152849)
 
+📫 Microsoft MVP (α-MLSA)
+
+📫 Enthusiastic towards coding and learning new skills.
 
 
 
