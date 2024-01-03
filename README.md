@@ -25,5 +25,5 @@
  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Tarushi.B) 
 
-  
+  [![Tarushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarushi16&bg_color=0d0c0d&color=f05a19&line=d4ef0b&point=e68a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
