@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on ML models<br>👯 I’m looking to collaborate on Kaggle contests <br>🌱 I’m currently learning DSA and Deep learning<br> 📫 Microsoft MVP (α-MLSA)
+🔭 I’m currently working on ML models<br>👯 I’m looking to collaborate on Kaggle contests <br>🌱 I’m currently learning DSA and Deep learning<br> 📫 Microsoft MVP (β-MLSA)
 
 
 ## 🌐 Socials:
