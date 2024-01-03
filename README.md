@@ -1,3 +1,8 @@
+
+<h1 align="center">Hi 👋, I'm Tarushi Bhardwaj</h1>
+<h3 align="center">Hi A passionate ML enthusiast and a Web Developer</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on ML models<br>👯 I’m looking to collaborate on Kaggle contests <br>🌱 I’m currently learning DSA and Deep learning<br>
 
