@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on ML models<br>👯 I’m looking to collaborate on Kaggle contests <br>🌱 I’m currently learning DSA and Deep learning<br> 📫 Microsoft MVP (β-MLSA)
 
-
+![](https://komarev.com/ghpvc/?username=tarushi16&color=green)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarushi-bhardwaj/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/taru16) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TARUSHI_16B) 
 
