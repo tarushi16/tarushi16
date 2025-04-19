@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on ML models<br>👯 I’m looking to collaborate on Kaggle contests <br>🌱 I’m currently learning DSA and Deep learning<br> 📫 Microsoft MVP (β-MLSA)
+🔭 I’m currently working on Angular, c#, .net, full stack project.<br>👯 I’m looking to collaborate on Kaggle contests <br>🌱 I’m currently learning DSA and Deep learning<br> 📫 Microsoft MVP (β-MLSA)
 
 ![](https://komarev.com/ghpvc/?username=tarushi16&color=green)
 ## 🌐 Socials:
